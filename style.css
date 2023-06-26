@@ -87,7 +87,20 @@ img{
     cursor: pointer;
 
 }
+    .github {
+    padding: 20px;
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    color: rgb(0, 67.45, 93.33);
+    background-color: #fff;
+    font-weight: bold;
+    font-size: 1em;
+    cursor: pointer;
 
+}
 .bi {
    margin: 5px;
 }
